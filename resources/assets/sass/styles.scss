@@ -1,0 +1,21 @@
+body{
+  /* The image used */
+  /* Full height */
+  height: 100%;
+
+  /* Center and scale the image nicely */
+  background-image: url("/assets/img/bk.jpg") no-repeat center;
+  background-size: cover;
+}
+
+.jumbotron
+{
+  height:70vh;
+}
+
+footer {
+  background-color: black;
+  margin: 0px auto;
+  padding: 20px 0px;
+}
+
