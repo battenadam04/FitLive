@@ -5,11 +5,10 @@ body {
   /* Center and scale the image nicely */
   background-image: url("/assets/img/bk.jpg") no-repeat center;
   background-size: cover;
-  background:black;
 }
 
 .jumbotron {
-  height: 70vh !important;
+  height: 70vh;
 }
 
 footer {
